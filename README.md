@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain engineering
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on anything that helps me learn
-- 📫 How to reach me @earnestooooo #twitter
+- 📫 How to reach me @earnestooooo & earn#7100
 
 <!---
 earn74/earn74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
